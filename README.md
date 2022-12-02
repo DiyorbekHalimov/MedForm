@@ -1,3 +1,1 @@
-# MedForm
-# MedForma
-# Diyorbek
+# projects
