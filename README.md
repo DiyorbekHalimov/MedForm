@@ -1,4 +1,3 @@
 # projects
 * Halimov
-* Halimov
 * MedForm
